@@ -139,5 +139,6 @@ This project is created for **learning and academic purposes** to demonstrate Ja
 
 ## 📬 Contact
 
-- 📧 Email: [chaitanya.barappadi07@gmail.com](mailto:chaitanya.barappadi07@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/chaitanya-barappadi](https://www.linkedin.com/in/chaitanya-barappadi-47a7a327a)
+If you have any queries:
+📧 Email: [sai.chaitanya.barappadi@gmail.com](mailto:sai.chaitanya.barappadi@gmail.com)  
+💼 LinkedIn: [Chaitanya Barappadi](https://www.linkedin.com/in/chaitanya-barappadi-47a7a327a)
