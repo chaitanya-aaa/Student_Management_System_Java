@@ -19,7 +19,7 @@ To build a web-based application that enables administrators to **efficiently ma
 ## 👨‍💻 Developed By
 
 **Chaitanya Barappadi**  
-BVCR
+India
 
 ---
 
